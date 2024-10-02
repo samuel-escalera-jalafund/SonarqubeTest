@@ -10,5 +10,7 @@ public class Main {
 
         System.out.println(honorSmartphone.model.toString());
         System.out.println(samsungSmartphone.model.toString());
+
+        System.out.println("Hello world!");
     }
 }
